@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54593e5b-89bd-4efa-9447-aec6223c0f70" name="Default Changelist" comment="" />
+    <list default="true" id="54593e5b-89bd-4efa-9447-aec6223c0f70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bboard/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bboard/migrations/0003_auto_20190927_1518.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bboard/static/bboard/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bboard/static/bboard/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bboard/templates/bboard/by_rubric.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bboard/templates/bboard/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bboard/templates/layout/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bboard/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bboard/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bboard/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bboard/templates/bboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bboard/templates/bboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bboard/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +31,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1REgJHUr8PJ4dS0KrjJQRBZYBPA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bboard/templates/bboard" />
+      <recent name="$PROJECT_DIR$/bboard/templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,5 +74,21 @@
       <updated>1569085707328</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
